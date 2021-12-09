@@ -1,6 +1,9 @@
 CMPE 283, Assignment – 2
 
-Make sure you set up the environment in the first assignment before you begin. 
+Q1) Ans) Assignment is done by Abhiteja Mandava(015786550) and Sai Santhosh Yamsani(015386683)
+Santhosh worked on the the logic in the vmx.c file and also the basic set up while I worked on the cpuid.c file and the set up.
+We both have worked on the two instrcutions.
+Q2) Ans) Make sure you set up the environment in the first assignment before you begin. 
 
 The CPUID exit handler code in and cupid.c and vmx.c should be changed. KVM Hypervisor changes can be made in the arch directory. Our two directories are linux/arch/x86/kvm/vmx/vmx.c and linux/arch/x86/kvm/vmx/vmx.c. 
 linux/arch/x86/kvm/cupid.c 
